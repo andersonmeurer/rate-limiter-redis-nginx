@@ -62,16 +62,7 @@
         <plugin>
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-maven-plugin</artifactId>
-<!--          <configuration>-->
-<!--            <mainClass>com.meurer.ratelimiter.RateLimiterApplication</mainClass>-->
-<!--          </configuration>-->
         </plugin>
       </plugins>
     </build>
-<!--    <distributionManagement>-->
-<!--        <repository>-->
-<!--            <id>meu-repositorio</id>-->
-<!--            <url>http://url-do-repositorio/maven2</url>-->
-<!--        </repository>-->
-<!--    </distributionManagement>-->
 </project>
